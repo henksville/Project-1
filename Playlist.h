@@ -1,10 +1,8 @@
-//
+// Created by Henry Odunze
 //  Playlist.h
 //  Final Project
-//
-//  Created by Ore Runsewe on 5/6/18.
-//  Copyright © 2018 Ore Runsewe. All rights reserved.
-//
+//  Copyright © 2018 Odunze Henry. All rights reserved.
+
 
 #ifndef Playlist_h
 #define Playlist_h
