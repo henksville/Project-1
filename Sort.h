@@ -1,5 +1,5 @@
 // Created by Henry Odunze
-//  main.cpp
+//  Sort.h
 //  Final Project
 //  Copyright © 2018 Odunze Henry. All rights reserved.
 
